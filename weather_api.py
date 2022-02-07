@@ -1,6 +1,6 @@
 import requests,json
 city = "Seoul"
-apikey = "3c872c9843d4203e0653442bdaaf64ff"
+apikey = "#######"
 #요청을 보낼 api의 링크
 lang = "kr"
 api = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={apikey}&lang={lang}\
